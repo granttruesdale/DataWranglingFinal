@@ -1,5 +1,5 @@
 # Data Wrangling Final Project
-> The purpose of this project was to display our expertise in RStudio. My group and I wanted to analyze how Movie ratings correlated with earnings overtime. Throughout this project we look at multiple different aspects that dive into that relationship. 
+> The purpose of this project was to display my expertise in RStudio. My group and I wanted to analyze how Movie ratings correlated with earnings overtime. Throughout this project we look at multiple different aspects that dive into that relationship. 
 
 ## Table of Contents
 * [General Info](#general-information)
@@ -7,7 +7,7 @@
 * [Technologies Used](#technologies-used)
 * [Features](#features)
 * [Screenshots](#screenshots)
-* [Usage](#usage)
+* [Setup](#Setup)
 * [Project Status](#project-status)
 * [Room for Improvement](#room-for-improvement)
 * [Acknowledgements](#acknowledgements)
@@ -23,16 +23,13 @@
 - Is there a relationship between the Director’s that have produced multiple films and the gross earnings for their films? 
 
 ## Technologies Used
-- Tech 1 - version 1.0
-- Tech 2 - version 2.0
-- Tech 3 - version 3.0
-
+- RStudio - version 4.1
+- Github Desktop
 
 ## Features
-List the ready features here:
-- Awesome feature 1
-- Awesome feature 2
-- Awesome feature 3
+- Correlation graph of Ratings vs Earnings
+- Bar Chart of top 5 earning directors
+- Merged dataset with earning and rating fields
 
 
 ## Screenshots
@@ -40,50 +37,22 @@ List the ready features here:
 ![Profitable Directors](./images/directors.png)
 ![Ratings by Genre](./images/GenreRating.png)
 
-
 ## Setup
-What are the project requirements/dependencies? Where are they listed? A requirements.txt or a Pipfile.lock file perhaps? Where is it located?
-
-Proceed to describe how to install / setup one's local environment / get started with the project.
-
-
-## Usage
-How does one go about using it?
-Provide various use cases and code examples here.
-
-`write-your-code-here`
-
+To correctly run this project one should have the latest version of RStudio downloaded. Once complete, download the 'Final Project.R' script and the 'imdb_top_1000.csv' to your local desktop. Set the working directory to your desktop in RStudio and begin running the code within the R script. 
 
 ## Project Status
-Project is: _in progress_ / _complete_ / _no longer being worked on_. If you are no longer working on it, provide reasons why.
-
+Project is: _complete_
+This was the final project in the Data Wrangling class; therefore, I have not revisited this project since December 2021 and it's considered complete. 
 
 ## Room for Improvement
-Include areas you believe need improvement / could be improved. Also add TODOs for future development.
-
-Room for improvement:
-- Improvement to be done 1
-- Improvement to be done 2
-
-To do:
-- Feature to be added 1
-- Feature to be added 2
-
+- Look at the impact the pandemic had on earnings in the film industry
+- How have streaming services such as Netflix and Hulu impacted movie earnings?
+- Look at all movies overtime. This project analyzes only 193 films that were found in both datasets. 
 
 ## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- This project was based on [this tutorial](https://www.example.com).
-- Many thanks to...
-- My group and I decided to look at earnings of Movies overtime from [Box Office Mojo](https://www.boxofficemojo.com/chart/ww_top_lifetime_gross/?ref_=bo_lnav_hm_shrt). We also found a data set from [kaggle]
-
+- This project was inspired by Professor Mike Colbert in his Data Wrangling class at the University of Iowa. 
+- My group members Caleb Kitzman, Blake Murray, Blake Johnson, and Asher Titus collaborated on this project together. 
+- Data from this project was scraped from [Box Office Mojo](https://www.boxofficemojo.com/chart/ww_top_lifetime_gross/?ref_=bo_lnav_hm_shrt) and downloaded from [kaggle](https://www.kaggle.com/harshitshankhdhar/imdb-dataset-of-top-1000-movies-and-tv-shows).
 
 ## Contact
-Created by [@flynerdpl](https://www.flynerd.pl/) - feel free to contact me!
-
-
-<!-- Optional -->
-<!-- ## License -->
-<!-- This project is open source and available under the [... License](). -->
-
-<!-- You don't have to include all sections - just the one's relevant to your project -->
+Created by [@GrantTruesdale](https://www.linkedin.com/in/grant-truesdale-330612154/) - feel free to connect with me!
