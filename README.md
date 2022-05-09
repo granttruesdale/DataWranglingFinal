@@ -1,8 +1,9 @@
 # Data Wrangling Final Project
-> The purpose of this project was to display our expertise in RStudio. My group and I wanted to analyze how Movie ratings correlated with their respective earnings overtime. Throughout this project we look at multiple different aspects that dive into that relationship. 
+> The purpose of this project was to display our expertise in RStudio. My group and I wanted to analyze how Movie ratings correlated with earnings overtime. Throughout this project we look at multiple different aspects that dive into that relationship. 
 
 ## Table of Contents
 * [General Info](#general-information)
+* [Research Questions)(#research-questions)
 * [Technologies Used](#technologies-used)
 * [Features](#features)
 * [Screenshots](#screenshots)
@@ -13,12 +14,13 @@
 * [Contact](#contact)
 
 ## General Information
-- Provide general information about your project here.
-- What problem does it (intend to) solve?
-- What is the purpose of your project?
-- Why did you undertake it?
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+- Data from kaggle and box office mojo
+- This final project concluded the Data Wrangling course at the University of Iowa
 
+## Research Questions
+- What is the distribution of movies and ratings across different genres? 
+- Is there any relationship between IMDb ratings and worldwide gross earnings?
+- Is there a relationship between the Director’s that have produced multiple films and the gross earnings for their films? 
 
 ## Technologies Used
 - Tech 1 - version 1.0
