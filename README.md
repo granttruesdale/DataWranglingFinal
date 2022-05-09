@@ -42,7 +42,7 @@ To correctly run this project one should have the latest version of RStudio down
 
 ## Project Status
 Project is: _complete_
-This was the final project in the Data Wrangling class; therefore, I have not revisited this project since December 2021 and it's considered complete. 
+> This was the final project in the Data Wrangling class; therefore, I have not revisited this project since December 2021 and it's considered complete. 
 
 ## Room for Improvement
 - Look at the impact the pandemic had on earnings in the film industry
