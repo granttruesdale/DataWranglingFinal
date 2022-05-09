@@ -3,7 +3,7 @@
 
 ## Table of Contents
 * [General Info](#general-information)
-* [Research Questions)(#research-questions)
+* [Research Questions](#research-questions)
 * [Technologies Used](#technologies-used)
 * [Features](#features)
 * [Screenshots](#screenshots)
@@ -36,8 +36,9 @@ List the ready features here:
 
 
 ## Screenshots
-![Example screenshot](./img/screenshot.png)
-<!-- If you have screenshots you'd like to share, include them here. -->
+![Rating vs Earning Correlation](./images/correlation.png)
+![Profitable Directors](./images/directors.png)
+![Ratings by Genre](./images/GenreRating.png)
 
 
 ## Setup
