@@ -1,20 +1,16 @@
 # Data Wrangling Final Project
-> The purpose of this project was to show 
-> Live demo [_here_](https://www.example.com). <!-- If you have the project hosted somewhere, include the link here. -->
+> The purpose of this project was to display our expertise in RStudio. My group and I wanted to analyze how Movie ratings correlated with their respective earnings overtime. Throughout this project we look at multiple different aspects that dive into that relationship. 
 
 ## Table of Contents
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
 * [Features](#features)
 * [Screenshots](#screenshots)
-* [Setup](#setup)
 * [Usage](#usage)
 * [Project Status](#project-status)
 * [Room for Improvement](#room-for-improvement)
 * [Acknowledgements](#acknowledgements)
 * [Contact](#contact)
-<!-- * [License](#license) -->
-
 
 ## General Information
 - Provide general information about your project here.
@@ -76,6 +72,7 @@ Give credit here.
 - This project was inspired by...
 - This project was based on [this tutorial](https://www.example.com).
 - Many thanks to...
+- My group and I decided to look at earnings of Movies overtime from [Box Office Mojo](https://www.boxofficemojo.com/chart/ww_top_lifetime_gross/?ref_=bo_lnav_hm_shrt). We also found a data set from [kaggle]
 
 
 ## Contact
